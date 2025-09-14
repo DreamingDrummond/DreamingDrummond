@@ -6,7 +6,7 @@ I'm passionate about data science.
 
 ## 🛠️ Tech Stack & Interests
 
-- **Programming Languages:** `Python` , `C`, SQL
+- **Programming Languages:** `Python` , `C`, `SQL`
 - **Areas of Interest:** Blockchain Technology, System Architecture, Optimization Methods
 - **Tools & Environments:** Git, Linux, VScode
 
