@@ -1,18 +1,19 @@
 # Hi there, I'm Ren Junming! 👋
 
-I'm an undergraduate student from **Fudan University**, currently spending my junior year (Fall 2023) as an exchange student at the **University of Edinburgh**.
+I'm an undergraduate student from **Fudan University**. I just spent my fifth semester (2025, September -- December) as an exchange student at the **University of Edinburgh**.
 
 I'm passionate about data science.
 
 ## 🛠️ Tech Stack & Interests
 
-- **Programming Languages:** `Python` , `C`, `SQL`
-- **Areas of Interest:** Blockchain Technology, System Architecture, Optimization Methods
-- **Tools & Environments:** Git, Linux, VScode
+- **Programming Languages:** `Python` , `Solidity`, `SQL`, 'Matlab'
+- **Areas of Interest:** Optimization Methods, Blockchain Technology, Artificial Intelligence, System Architecture
+- **Tools & Environments:** Git, uv, Linux, VScode, Graphiviz(.dot)
 
 ## 🔭 Current Projects
 
-One of my notable experiences involves **disassembling and visualizing the execution process of blockchain transactions**. This project aimed to create a clearer representation of the low-level steps in smart contract execution.
+🔍 EVM Trace Analysis & Visualization
+Developing a system to reconstruct Control Flow Graphs (CFG) and Token Transfer Graphs from raw Ethereum execution traces, helping developers demystify complex MEV strategies and smart contract interactions.
 
 ## 📫 How to Reach Me
 
