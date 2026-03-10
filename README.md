@@ -24,8 +24,6 @@ Developing a system to reconstruct Control Flow Graphs (CFG) and Token Transfer 
 When I'm not coding, you can find me:
 - Playing basketball and volleyball  🏀🏐
 - Travelings ✈️
-- Taking photos 📷
-
 ---
 
 *Thanks for visiting my profile!*
